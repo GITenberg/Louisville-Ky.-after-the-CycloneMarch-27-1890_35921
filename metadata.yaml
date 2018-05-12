@@ -1,0 +1,29 @@
+_repo: Louisville-Ky.-after-the-CycloneMarch-27-1890_35921
+_version: 0.1.0
+alternative_title: Louisville, Kentucky after the Cyclone, March 27, 1890
+covers:
+- cover_type: archival
+  image_path: 35921-h/images/cover_back.jpg
+creator:
+  author:
+    agent_name: Klauber, E. (Edward)
+    alias: Klauber, Edward
+    birthdate: 1836
+    deathdate: 1918
+    gutenberg_agent_id: '37979'
+    url: http://www.gutenberg.org/2009/agents/37979
+description: ''
+gutenberg_issued: '2011-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ruined buildings -- Kentucky -- Louisville -- Pictorial works'
+- !lcsh 'Tornadoes -- Kentucky -- Louisville -- 1890'
+- !lcc 'F396'
+title: Louisville, Ky. after the Cyclone, March 27, 1890
+url: http://www.gutenberg.org/ebooks/35921
