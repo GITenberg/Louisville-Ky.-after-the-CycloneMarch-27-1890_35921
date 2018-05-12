@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '37979'
     url: http://www.gutenberg.org/2009/agents/37979
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35921#Louisville-Ky.-after-the-CycloneMarch-27-1890
 gutenberg_issued: '2011-04-20'
 gutenberg_type: Text
 identifiers:
